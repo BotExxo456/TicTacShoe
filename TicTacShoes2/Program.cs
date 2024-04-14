@@ -9,9 +9,10 @@ internal class Program
     }
 
     private static void Update(){
+        bool hasWon = true;
         DoTurn(1);
         DoTurn(2);
-
+        Console.WriteLine(hasWon);
 
     }
     private bool lambda1(int x){
@@ -73,7 +74,7 @@ internal class Program
             Console.Read();
             Environment.Exit(0);
         }
-        bool hasWon;
+        
        // if sign has 2 connection points, in the same direction, display Win screen(gigachad.png) (Math = seeing better)
     }
 

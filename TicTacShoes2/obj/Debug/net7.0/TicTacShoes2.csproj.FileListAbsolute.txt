@@ -1,0 +1,14 @@
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\bin\Debug\net7.0\TicTacShoes2.exe
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\bin\Debug\net7.0\TicTacShoes2.deps.json
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\bin\Debug\net7.0\TicTacShoes2.runtimeconfig.json
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\bin\Debug\net7.0\TicTacShoes2.dll
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\bin\Debug\net7.0\TicTacShoes2.pdb
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\TicTacShoes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\TicTacShoes2.AssemblyInfoInputs.cache
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\TicTacShoes2.AssemblyInfo.cs
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\TicTacShoes2.csproj.CoreCompileInputs.cache
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\TicTacShoes2.dll
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\refint\TicTacShoes2.dll
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\TicTacShoes2.pdb
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\TicTacShoes2.genruntimeconfig.cache
+C:\Users\Anwender\Desktop\TicTacShoe\TicTacShoes2\obj\Debug\net7.0\ref\TicTacShoes2.dll
